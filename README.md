@@ -21,7 +21,7 @@
 -  I’m working as Quality Assurance Engineer and responsible for product quality audit.
 -  Designing, building and implementing effective testing strategies.
 -  In my free time, I am studying marketing and sales. This topic is also interesting for me.
-- :envelope_with_arrow: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/sidoreanaa)
+- :envelope_with_arrow: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sidoreanaa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bntv0CtvpQlGR43StaQ1%2BhA%3D%3D)
     
     ---
     
