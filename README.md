@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iSD0xUVEd8iABcQpTg/giphy.gif" width="100"/>
+  <h2>Hi there<img src="https://media.giphy.com/media/S5ca2PUwbRdjlXe9Mp/giphy.gif" width="30px"/>, I'm Anastasiia</h2>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sidoreanaa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bntv0CtvpQlGR43StaQ1%2BhA%3D%3D">
@@ -9,19 +9,13 @@
   <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=sidoreanaa&style=flat-square&color=blue" alt=""/>
     </div>
-  <h1 align="center">
- hey there
-  <img src="https://media.giphy.com/media/S5ca2PUwbRdjlXe9Mp/giphy.gif" width="30px"/>
-  </h1>
+ 
     
- :woman_technologist: About Me :
-  
-  I am a QA-engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ ### :woman_technologist: About Me :
     
 -  I’m working as Quality Assurance Engineer and responsible for product quality audit.
 -  Designing, building and implementing effective testing strategies.
 -  In my free time, I am studying marketing and sales. This topic is also interesting for me.
-- :envelope_with_arrow: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidoreanaa/)
     
     ---
     
@@ -38,3 +32,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" title="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" title="javascript" width="40" height="40"/>
 </div>
+
+
